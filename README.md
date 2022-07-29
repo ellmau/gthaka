@@ -2,7 +2,7 @@
 
 I'm a passionate Software Developer. Currently working on enhancing my skills.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&layout=compact">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=ellmau&show_icons=true&locale=en&layout=compact">
 
 - 💻 I work using:  
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
