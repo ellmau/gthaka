@@ -21,7 +21,7 @@ I'm a passionate Software Developer. Currently working on enhancing my skills.
   ![Sass](https://img.shields.io/badge/-Sass-gray?style=plastic&logo=sass) 
 - ⚡️ Fun fact: I enjoy travel
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=gthaka&show_icons=true&layout=compact">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ellmau&show_icons=true&layout=compact">
 
 [![GThaka's github activity graph](https://activity-graph.herokuapp.com/graph?username=ellmau&theme=react-dark)](https://github.com/gthaka)
 
